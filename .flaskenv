@@ -1,0 +1,2 @@
+FLASK_APP=main
+DATABASE_URL=postgresql://blog_9qvw_user:DZQ55495LMitb1qYjvkZrmGhyyOP0qhx@dpg-ckeujtns0fgc73dd4f1g-a.oregon-postgres.render.com/blog_9qvw
